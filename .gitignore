@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+data
+*.Rproj
+*.RData
+figures
+*.png
+*.jpg
+*.gif
