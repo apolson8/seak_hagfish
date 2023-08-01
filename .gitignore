@@ -9,3 +9,5 @@ figures
 *.png
 *.jpg
 *.gif
+output
+*.csv
